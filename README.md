@@ -26,6 +26,7 @@ Ils sont composé de la même structure.
    - **dat**: Contient les fichiers `.dat`.
    - **images**: Contient les images générées par la compilation.
 
+Chaque dossier contient deux fichiers :
 ## Fichiers
 
 - **makefile**: Contient les instructions de compilation.
