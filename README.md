@@ -1,8 +1,3 @@
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
-
 # Projet Traffic routier
 
 Ce projet contient deux dossiers, l'un pour un modèle scalaire, l'autre pour un Système.
@@ -49,7 +44,9 @@ Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions
 
 Pour la fonction 0:
 
-$
+$\rho_0(x) = \left{\begin{cases} 0 & \text{si } x < 1 \ 1 & \text{si } 1 < x < 2 \ \end{cases}\right .$
+
+
 \rho_0(x) = \left\{\begin{cases}
   0 & \text{si } x < 1 \\
   1 & \text{si } 1 < x < 2 \\
