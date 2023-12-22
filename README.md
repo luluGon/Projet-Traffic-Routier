@@ -38,3 +38,19 @@ Pour compiler le projet, utilisez le fichier `makefile` en exécutant la command
 
 ```bash
 make
+```
+Ensuite vous pouvez executer le programme par la commande :
+```bash
+./exe
+```
+Si vous possèder eog, pour créer et ouvrir les graphiques que vous voulez générer vous pouvez même utiliser la commande :
+```bash
+make plot
+```
+##Instructions de modifications
+
+Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
+
+Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de base :
+
+
