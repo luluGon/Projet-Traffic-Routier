@@ -35,6 +35,7 @@ Si vous possèder eog, pour créer et ouvrir les graphiques que vous voulez gén
 ```bash
 make plot
 ```
+
 ##Instructions de modifications
 
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
