@@ -44,9 +44,10 @@ Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions
 
 Pour la fonction 0:
 
-$
-rho_0(x) = \begin{array}{c|c|c}
-   & 0 &\mbox{ si } x<1 \\
-   & 1 &\mbox{ si } 1< x<2 \\
-\end{array}
-$
+\[
+\rho_0(x) = \begin{cases}
+  0 & \text{si } x < 1 \\
+  1 & \text{si } 1 < x < 2 \\
+\end{cases}
+\]
+
