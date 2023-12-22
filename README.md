@@ -45,7 +45,7 @@ Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions
 
 Pour la fonction 0:
 
-$\rho_0(x) = 0 \text{ si } x<1$ ou bien $1 \text{ si } 1<x<2$ sinon $0 \text{ si } x>2$
+$\rho_0(x) = 0 \text{ si } x<1$ ou bien $1 \text{ si } 1\ltx\lt2$ sinon $0 \text{ si } x>2$
 
 
 
