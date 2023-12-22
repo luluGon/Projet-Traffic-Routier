@@ -1,4 +1,4 @@
-# Projet Équation de transport
+# Projet Traffic routier
 
 Ce projet contient deux dossiers, l'un pour un modèle scalaire, l'autre pour un Système.
 
