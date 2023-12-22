@@ -38,7 +38,7 @@ make plot
 
 ## Instructions de modifications
 
-$f(x)=2$
+$$\begin{array}{c|c} 1&1\\2&3\end{array}$$
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
 Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de bases.
