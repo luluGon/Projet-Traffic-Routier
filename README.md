@@ -1,3 +1,8 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 # Projet Traffic routier
 
 Ce projet contient deux dossiers, l'un pour un modèle scalaire, l'autre pour un Système.
