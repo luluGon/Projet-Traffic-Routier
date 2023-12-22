@@ -6,18 +6,6 @@ Ils sont composé de la même structure.
 
 ## Structure des Dossiers
 
-1. **Modèle Scalaire**
-
-   - **src**: Contient les fichiers source `.f90`.
-   - **mod**: Contient les fichiers module `.mod` créés par la compilation.
-   - **obj**: Contient les fichiers objet `.o`.
-   - **script_gnuplot**: Contient les scripts Gnuplot.
-   - **script_bash**: Contient les scripts Bash utilisés dans le Makefile.
-   - **dat**: Contient les fichiers `.dat`.
-   - **images**: Contient les images générées par la compilation.
-
-2. **Systeme**
-
    - **src**: Contient les fichiers source `.f90`.
    - **mod**: Contient les fichiers module `.mod` créés par la compilation.
    - **obj**: Contient les fichiers objet `.o`.
@@ -52,5 +40,10 @@ make plot
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
 Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de base :
-
-
+Pour la fonction 0:
+$$
+rho_0(x) = \begin{array}{c|c|c}
+   & 0 &\mbox{ si } x<1 \\
+   & 1 &\mbox{ si } 1< x<2 \\
+\end{array}
+$$
