@@ -39,14 +39,13 @@ make plot
 
 ## Instructions de modifications
 
-$$\begin{array}{c|c} 1&1\\2&3\end{array}$$
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
 Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de bases.
 
 Pour la fonction 0:
 
-$\rho_0(x) = \left\{\begin{array}{c|c} 0 & \text{si } x < 1 \\ 1 & \text{si } 1 < x < 2 \end{array}\right.$
+$\rho_0(x) = \left\{\begin{align*} 0 & \text{si } x < 1 \\ 1 & \text{si } 1 < x < 2 \end{align}\right.$
 
 
 
