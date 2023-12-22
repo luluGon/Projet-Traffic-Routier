@@ -38,6 +38,7 @@ make plot
 
 ## Instructions de modifications
 
+$f(x)=2$
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
 Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de bases.
