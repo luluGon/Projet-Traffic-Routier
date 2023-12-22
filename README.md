@@ -41,9 +41,9 @@ Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donne
 
 Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de base :
 Pour la fonction 0:
-$$
+$
 rho_0(x) = \begin{array}{c|c|c}
    & 0 &\mbox{ si } x<1 \\
    & 1 &\mbox{ si } 1< x<2 \\
 \end{array}
-$$
+$
