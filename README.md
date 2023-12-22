@@ -40,8 +40,10 @@ make plot
 
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
-Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de base :
+Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de bases.
+
 Pour la fonction 0:
+
 $
 rho_0(x) = \begin{array}{c|c|c}
    & 0 &\mbox{ si } x<1 \\
