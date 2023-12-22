@@ -41,7 +41,7 @@ make plot
 
 Pour changer les paramètres, vous pouvez vous rendre dans le fichier 'dat/donnees.dat', et changer les paramètre que vous souhaitez.
 
-Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions de bases.
+Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions initiales.
 
 Pour la fonction 0:
 
