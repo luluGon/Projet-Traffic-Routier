@@ -1,0 +1,8 @@
+0.0 		:: xdebut
+5.  		:: xfin
+1000 		:: Nb de cellules
+0.5 		:: CFL
+0.6			:: Tfin
+1			:: choix	!	0: Lax-Friedrich	1: Godunov		2: Morman-Roe 
+2			:: CL		!	0: Dirichlet 		1: Neumman 		2: Périodique
+2			:: choix fonction initiale voir README 

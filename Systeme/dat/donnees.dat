@@ -1,0 +1,10 @@
+0.0 		:: x debut
+5.  		:: x fin
+100 		:: Nb de cellules
+1.0			:: rho max
+1.0			:: Vmax	
+0.45 		:: CFL
+0.1			:: Tfin
+1			:: choix	!	0: Lax-Friedrich	1: Godunov		2: Morman-Roe 
+1			:: CL		!	0: Dirichlet 		1: Neumman 		2: Périodique
+0			:: choix fonction initiale
