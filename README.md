@@ -44,11 +44,11 @@ Dans le dossier 'Modele\_Scalaire' vous avez le choix entre plusiseurs fonctions
 
 Pour la fonction 0:
 
-$\rho_0(x) = 0 \text{ si } x<1, \quad 1 \text{ si } 1\lt x\lt 2,\quad 0 \text{ si } x>2$
+$\rho_0(x) = 0.2 \text{ si } x<1, \quad 0.9 \text{ si } x>1$
 
 Pour la fonction 1:
 
-$\rho_1(x) = 1 \text{ si } x<1, \quad 0,25 \text{ si } 1\lt x\lt 2,\quad 0 \text{ si } x>2$
+$\rho_1(x) = 0,9 \text{ si } x<1,\quad  0.25 \text{ si } x>1$
 
 Pour la fonction 2:
 
